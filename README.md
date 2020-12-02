@@ -8,6 +8,7 @@ This repository contains my solutions for [Advent of Code](http://adventofcode.c
 
 The following folders will contain:
 
+- The Challenge as the Readme.md
 - Code to solve the task
 - Input for given task
 - My solutions to the given input
